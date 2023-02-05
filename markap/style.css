@@ -1,0 +1,17 @@
+table {
+    table-layout: fixed;
+    border: 3px solid purple;
+    background-color: blue;
+ }
+ 
+ td {
+    width: 70px;
+    height: 70px;
+    border: 1px solid #000;
+ }
+ .table {
+    background-color: chartreuse;
+ }
+ #table {
+   font-size: 75px;
+ }
